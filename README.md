@@ -1,15 +1,19 @@
+<div align="center">
+
 # 📚 Technical IT & Infrastructure Library
+
+**A bilingual, production-ready technical documentation library**
+
+149 organized documents across Cloud, Networking, Systems, DevOps, Governance, Cybersecurity, AI, and Data Analytics — in Arabic and English.
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Format](https://img.shields.io/badge/Formats-PDF%20%7C%20DOCX%20%7C%20XLSX-blue.svg)
 ![Languages](https://img.shields.io/badge/Languages-Arabic%20%7C%20English-green.svg)
 ![Documents](https://img.shields.io/badge/Documents-149%20Files-orange.svg)
 
-![Stars](https://img.shields.io/github/stars/mabdulkadr/Books?style=social)
-![Forks](https://img.shields.io/github/forks/mabdulkadr/Books?style=social)
-![Last Commit](https://img.shields.io/github/last-commit/mabdulkadr/Books)
+[Overview](#-overview) • [Structure](#-repository-structure) • [Catalog](#️-complete-document-catalog) • [Getting Started](#-getting-started)
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Support-Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge)](https://www.buymeacoffee.com/mabdulkadrx)
+</div>
 
 ---
 
@@ -19,24 +23,20 @@
 
 The repository is designed for IT professionals, system administrators, and infrastructure engineers where organized knowledge and scalable reference materials are critical. It covers Cloud computing, Networking, Systems administration, DevOps, Cybersecurity, Governance, Artificial Intelligence, and Data Analytics.
 
----
+### What This Library Gives You
 
-# 🔹 Enterprise Knowledge Toolkit
-
-This repository enables:
-
-- Centralized access to premium technical guides
-- Standardized learning paths for IT certifications
-- Rapid reference for complex infrastructure deployments
-- Bilingual knowledge sharing (Arabic and English)
-- Clean, structured, and easy-to-navigate directory hierarchies
+* Centralized access to premium technical guides
+* Standardized learning paths for IT certifications
+* Rapid reference for complex infrastructure deployments
+* Bilingual knowledge sharing (Arabic and English)
+* Clean, structured, easy-to-navigate directory hierarchies
 
 Built with a focus on:
 
-- Enterprise-grade IT infrastructure standards
-- Consistent `Snake_Case` file naming conventions
-- Cross-platform compatibility for all documents
-- Broad coverage of modern IT operations
+* Enterprise-grade IT infrastructure standards
+* Consistent `Snake_Case` file naming conventions
+* Cross-platform compatibility for all documents
+* Broad coverage of modern IT operations
 
 ---
 
@@ -55,7 +55,7 @@ Books/
 │   ├── Microsoft/                    (23 files)
 │   └── VMware/                       (2 files)
 ├── 04_DevOps_Automation/             (8 files)
-├── 05_Governance_Management/         
+├── 05_Governance_Management/
 │   ├── ITIL/                         (7 files)
 │   └── Project_Management/           (17 files)
 ├── 06_Career_Development/
@@ -73,7 +73,7 @@ Books/
 
 ---
 
-# 🗃️ Complete Document Catalog
+# 🗂️ Complete Document Catalog
 
 ## 📁 01_Cloud
 
@@ -344,28 +344,37 @@ Explore the documentation by navigating through the categorized folders.
 
 ---
 
-## 📜 License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
-
----
-
 ## 👤 Author
 
 **Mohammad Abdulkader Omar**  
-Website: https://momar.tech  
-Version: **1.0.0**
+GitHub: [@mabdulkadr](https://github.com/mabdulkadr)  
+Website: [momar.tech](https://momar.tech)  
 
 ---
 
-## ☕ Support
+## 📜 License
 
-If this project helps you, consider supporting it:
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-☕-FFDD00?style=for-the-badge)](https://www.buymeacoffee.com/mabdulkadrx)
+This project is licensed under the [MIT License](LICENSE).
 
 ---
 
 ## ⚠ Disclaimer
 
-These documents are provided for educational and reference purposes. The author is not responsible for any unintended outcomes resulting from their application in production environments.
+This skill and every script it generates are provided as-is with no warranty
+of any kind. Test generated tools in a staging environment before deploying to
+production. The authors assume no liability for any damage or data loss
+resulting from their use.
+
+---
+
+<div align="center">
+
+⭐ **If this library helps you, star the repo — it helps others find it.**
+
+[Report an Issue](../../issues) · [momar.tech](https://momar.tech)
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/mabdulkadrx)
+
+Built with [**PowerShell Enterprise Admin**](https://github.com/mabdulkadr/powershell-enterprise-admin-skill)
+
+</div>
