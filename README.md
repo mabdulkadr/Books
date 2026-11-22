@@ -6,12 +6,15 @@
 
 149 organized documents across Cloud, Networking, Systems, DevOps, Governance, Cybersecurity, AI, and Data Analytics — in Arabic and English.
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Format](https://img.shields.io/badge/Formats-PDF%20%7C%20DOCX%20%7C%20XLSX-blue.svg)
-![Languages](https://img.shields.io/badge/Languages-Arabic%20%7C%20English-green.svg)
-![Documents](https://img.shields.io/badge/Documents-149%20Files-orange.svg)
+[![Mode](https://img.shields.io/badge/Mode-Docs-334155?style=for-the-badge)](#-overview)
+[![Format](https://img.shields.io/badge/Format-PDF%20%7C%20DOCX%20%7C%20XLSX-10B981?style=for-the-badge)](#-overview)
+[![Languages](https://img.shields.io/badge/Languages-Arabic%20%7C%20English-5391FE?style=for-the-badge)](#-overview)
+[![Documents](https://img.shields.io/badge/Documents-149%20Files-0F172A?style=for-the-badge)](#-project-structure)
+[![Platform](https://img.shields.io/badge/Platform-Cross--Platform-0F172A?style=for-the-badge)](#%EF%B8%8F-requirements)
+[![License](https://img.shields.io/badge/License-MIT-F59E0B?style=for-the-badge)](#-license)
+[![Version](https://img.shields.io/badge/Version-1.0.0-334155?style=for-the-badge)](#-overview)
 
-[Overview](#-overview) • [Structure](#-repository-structure) • [Catalog](#️-complete-document-catalog) • [Getting Started](#-getting-started)
+[Overview](#-overview) • [Structure](#-project-structure) • [Catalog](#%EF%B8%8F-complete-document-catalog) • [Getting Started](#-getting-started) • [License](#-license)
 
 </div>
 
@@ -19,28 +22,28 @@
 
 # 📖 Overview
 
-**Technical IT & Infrastructure Library** is a production-ready repository of **professionally organized, bilingual technical documentation**.
+This library holds 149 technical documents in Arabic and English. It covers cloud computing, networking, systems administration, DevOps, cybersecurity, governance, AI, and data analytics.
 
-The repository is designed for IT professionals, system administrators, and infrastructure engineers where organized knowledge and scalable reference materials are critical. It covers Cloud computing, Networking, Systems administration, DevOps, Cybersecurity, Governance, Artificial Intelligence, and Data Analytics.
-
-### What This Library Gives You
-
-* Centralized access to premium technical guides
-* Standardized learning paths for IT certifications
-* Rapid reference for complex infrastructure deployments
-* Bilingual knowledge sharing (Arabic and English)
-* Clean, structured, easy-to-navigate directory hierarchies
-
-Built with a focus on:
-
-* Enterprise-grade IT infrastructure standards
-* Consistent `Snake_Case` file naming conventions
-* Cross-platform compatibility for all documents
-* Broad coverage of modern IT operations
+The folders are organized so you can find a guide by topic, follow a certification path, or look up a specific procedure. Files use consistent `Snake_Case` names, and the documents are plain PDF, DOCX, and XLSX files that open in a viewer on any platform.
 
 ---
 
-# 📂 Repository Structure
+# ✨ Core Features
+
+* 149 documents across nine technology categories
+* Arabic and English versions for IT and infrastructure work
+* Portable PDF, DOCX, and XLSX files you can read offline
+
+---
+
+# ⚙️ Requirements
+
+* Nothing to install. Open each file with a matching viewer
+* Windows for editing and review. Any modern platform can read the exported files
+
+---
+
+# 📂 Project Structure
 
 ```text
 Books/
@@ -346,7 +349,7 @@ Explore the documentation by navigating through the categorized folders.
 
 ## 👤 Author
 
-**Mohammad Abdulkader Omar**  
+**Mohammad Abdelkader Omar**  
 GitHub: [@mabdulkadr](https://github.com/mabdulkadr)  
 Website: [momar.tech](https://momar.tech)  
 
